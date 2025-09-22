@@ -10,10 +10,6 @@ Credit card fraud is an inclusive term for fraud committed using a payment card,
 
 The machine learning model used for this web application was deployed as an API using the FastAPI framework and then accessed through a frontend interface with Streamlit.
 
-The App can be viewed [through this link](https://share.streamlit.io/nneji123/credit-card-fraud-detection/main)
-
-
-The API and its documentation can be viewed [here](https://credit-fraud-ml-api.herokuapp.com/docs) or [here.](https://credit-fraud-ml-api.herokuapp.com/redoc)
 
 ## Data Preparation
 
@@ -66,7 +62,7 @@ pyngrok
 ```
 3. Change the working directory:
 ```
-!cd /content/Credit-Card-Fraud-Detection
+!cd /content/Card_guard
 ```
 
 4. Install Ngrok to your Google Colab Instance:
