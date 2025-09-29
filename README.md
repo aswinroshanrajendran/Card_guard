@@ -1,8 +1,6 @@
 # Credit Card Fraud Detection App built with Streamlit, FastAPI and Docker
 
 
-
-
 ## Problem Statement
 Credit card fraud is an inclusive term for fraud committed using a payment card, such as a credit card or debit card. The purpose may be to obtain goods or services or to make payment to another account, which is controlled by a criminal.
  
